@@ -21,17 +21,15 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white">
-
+</br>
 ### 📫 Contacts
 ---
 <a href="https://kwgyeongroom.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/teck blog-000000?style=flat&logo=tistory&logoColor=FFFFFF"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kwgyeong0423@gmail.com)
-
+</br>
 ### 📁 My GitHub
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-woo-gyeong)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-woo-gyeong&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-woo-gyeong&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Kim-woo-gyeong/Kim-woo-gyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
