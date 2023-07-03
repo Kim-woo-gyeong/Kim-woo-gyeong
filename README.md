@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=12&height=150&section=header&text=WELCOME%20✨&fontSize=70)
 ---
 
-### 🛠 Skills 🛠
+### 🛠 Skills
 * * *
 📌 Language : 
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
@@ -22,10 +22,16 @@
 <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white">
 
-### 📫 CONTACTS
+### 📫 Contacts
 ---
-<a href="https://kwgyeongroom.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/teck blog-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
-<a href="https://kwgyeong0423@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="https://kwgyeongroom.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/teck blog-000000?style=flat&logo=tistory&logoColor=FFFFFF"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kwgyeong0423@gmail.com)
+
+### 📁 My GitHub
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-woo-gyeong)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-woo-gyeong&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Kim-woo-gyeong/Kim-woo-gyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
